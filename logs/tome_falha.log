@@ -1,0 +1,44 @@
+09/06/2021 08:02:30 PM: INFO: Master - Start thread.
+09/06/2021 08:02:30 PM: INFO: Master - Start server in host=127.0.0.1 porta=7300.
+09/06/2021 08:02:30 PM: INFO: Master - Executing task.
+09/06/2021 08:02:30 PM: INFO: Slave - Start thread.
+09/06/2021 08:02:30 PM: INFO: Slave - Start server in host=127.0.0.1 porta=7380.
+09/06/2021 08:02:30 PM: DEBUG: Slave - listen message.
+09/06/2021 08:02:52 PM: ERROR: Master - Fail on execution. Error=Falha Forçada.
+09/06/2021 08:02:52 PM: INFO: Slave - conn<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7380), raddr=('127.0.0.1', 43862)>, addr=('127.0.0.1', 43862)
+09/06/2021 08:02:52 PM: INFO: Slave - Receiving message: FAILED
+09/06/2021 08:02:52 PM: INFO: Slave - Executing task.
+09/06/2021 08:03:14 PM: ERROR: Slave - Fail on execution. error=Falha Forçada.
+09/06/2021 08:22:29 PM: INFO: Master - Start thread.
+09/06/2021 08:22:29 PM: INFO: Master - Start server in host=127.0.0.1 porta=7300.
+09/06/2021 08:22:29 PM: INFO: Slave - Start thread.
+09/06/2021 08:22:29 PM: INFO: Master - Executing task.
+09/06/2021 08:22:29 PM: INFO: Slave - Start server in host=127.0.0.1 porta=7380.
+09/06/2021 08:22:29 PM: DEBUG: Slave - listen message.
+09/06/2021 08:22:51 PM: ERROR: Master - Fail on execution. Error=Falha Forçada.
+09/06/2021 08:22:51 PM: INFO: Slave - conn<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7380), raddr=('127.0.0.1', 43972)>, addr=('127.0.0.1', 43972)
+09/06/2021 08:22:51 PM: INFO: Slave - Receiving message: FAILED
+09/06/2021 08:22:51 PM: INFO: Slave - Executing task.
+09/06/2021 08:23:13 PM: ERROR: Slave - Fail on execution. error=Falha Forçada.
+09/06/2021 08:29:42 PM: INFO: Master - Start thread.
+09/06/2021 08:29:42 PM: INFO: Slave - Start thread.
+09/06/2021 08:29:42 PM: INFO: Master - Start server in host=127.0.0.1 porta=7300.
+09/06/2021 08:29:42 PM: INFO: Slave - Start server in host=127.0.0.1 porta=7380.
+09/06/2021 08:29:42 PM: INFO: Master - Executing task.
+09/06/2021 08:29:42 PM: DEBUG: Slave - listen message.
+09/06/2021 08:30:04 PM: ERROR: Master - Fail on execution. Error=Falha Forçada.
+09/06/2021 08:30:04 PM: INFO: Slave - conn<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7380), raddr=('127.0.0.1', 44030)>, addr=('127.0.0.1', 44030)
+09/06/2021 08:30:04 PM: INFO: Slave - Receiving message: FAILED
+09/06/2021 08:30:04 PM: INFO: Slave - Executing task.
+09/06/2021 08:30:26 PM: ERROR: Slave - Fail on execution. error=Falha Forçada.
+09/06/2021 08:33:49 PM: INFO: Master - Start thread.
+09/06/2021 08:33:49 PM: INFO: Master - Start server in host=127.0.0.1 porta=7300.
+09/06/2021 08:33:49 PM: INFO: Slave - Start thread.
+09/06/2021 08:33:49 PM: INFO: Slave - Start server in host=127.0.0.1 porta=7380.
+09/06/2021 08:33:49 PM: INFO: Master - Executing task.
+09/06/2021 08:33:49 PM: DEBUG: Slave - listen message.
+09/06/2021 08:34:11 PM: ERROR: Master - Fail on execution. Error=Falha Forçada.
+09/06/2021 08:34:11 PM: INFO: Slave - conn<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7380), raddr=('127.0.0.1', 44044)>, addr=('127.0.0.1', 44044)
+09/06/2021 08:34:11 PM: INFO: Slave - Receiving message: FAILED
+09/06/2021 08:34:11 PM: INFO: Slave - Executing task.
+09/06/2021 08:34:33 PM: ERROR: Slave - Fail on execution. error=Falha Forçada.
